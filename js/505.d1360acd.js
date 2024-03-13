@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkshoulong"]=self["webpackChunkshoulong"]||[]).push([[505],{1505:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var a=t(9527);const u={name:"InviteDetail"};var s=Object.assign(u,{setup(e){return(e,n)=>((0,a.uX)(),(0,a.CE)("div",null,"InviteDetail"))}}),c=t(1423);const i=(0,c.A)(s,[["__scopeId","data-v-25a4a4ec"]]);var l=i}}]);

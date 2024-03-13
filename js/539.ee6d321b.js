@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkshoulong"]=self["webpackChunkshoulong"]||[]).push([[539],{4539:function(n,u,r){r.r(u),r.d(u,{default:function(){return a}});var s=r(9527);const e={name:"Error404"};var t=Object.assign(e,{setup(n){return(n,u)=>((0,s.uX)(),(0,s.CE)("div",null,"抱歉，你访问的页面不存在"))}});const o=t;var a=o}}]);
